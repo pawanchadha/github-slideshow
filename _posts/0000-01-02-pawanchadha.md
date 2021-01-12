@@ -1,1 +1,4 @@
-This is a new my-s;lide branch
+--------
+Layout: Slide
+title: "welcome to our second slide!"
+---------
